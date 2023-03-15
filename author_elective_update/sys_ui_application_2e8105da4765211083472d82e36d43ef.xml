@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>a</name>
+        <order/>
+        <roles>x_58872_needit.a_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>y-imanishi</sys_created_by>
+        <sys_created_on>2023-03-15 06:12:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2e8105da4765211083472d82e36d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_2e8105da4765211083472d82e36d43ef</sys_update_name>
+        <sys_updated_by>y-imanishi</sys_updated_by>
+        <sys_updated_on>2023-03-15 06:12:14</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c1a4459cdbc4ab043353f22ebf961982</instance_id>
+        <instance_name>dev70871</instance_name>
+        <name>sys_ui_application_2e8105da4765211083472d82e36d43ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>a</name><order/><roles>x_58872_needit.a_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>y-imanishi</sys_created_by><sys_created_on>2023-03-15 06:12:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2e8105da4765211083472d82e36d43ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_application_2e8105da4765211083472d82e36d43ef</sys_update_name><sys_updated_by>y-imanishi</sys_updated_by><sys_updated_on>2023-03-15 06:12:14</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>1120208923</payload_hash>
+        <record_name>a</record_name>
+        <reverted_from/>
+        <source>cf423fb14765211083472d82e36d4392</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>y-imanishi</sys_created_by>
+        <sys_created_on>2023-03-15 06:12:14</sys_created_on>
+        <sys_id>628105da4765211083472d82e36d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186e3e5d09d0000001</sys_recorded_at>
+        <sys_updated_by>y-imanishi</sys_updated_by>
+        <sys_updated_on>2023-03-15 06:12:14</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>6a8105da8365211048b8ac7e238ce6f1</update_guid>
+        <update_guid_history>6a8105da8365211048b8ac7e238ce6f1:1120208923</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>y-imanishi</sys_created_by>
+        <sys_created_on>2023-03-15 06:35:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>20339f5904a4468c84e4f275a9f2c390</sys_id>
+        <sys_metadata>2e8105da4765211083472d82e36d43ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_application_2e8105da4765211083472d82e36d43ef</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_2e8105da4765211083472d82e36d43ef">628105da4765211083472d82e36d43f2</sys_update_version>
+        <sys_updated_by>y-imanishi</sys_updated_by>
+        <sys_updated_on>2023-03-15 06:35:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
